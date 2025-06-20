@@ -27,7 +27,6 @@ The goal is to build a reliable classifier that detects fraudulent (spam) emails
 - Scikit-learn
 - Pandas, NumPy
 - Matplotlib / Seaborn (for visualization)
-- NLTK or sklearn's `CountVectorizer` / `TfidfVectorizer`
 
 ---
 
